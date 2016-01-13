@@ -1,0 +1,19 @@
+{
+  "name": "crawler-client",
+  "version": "0.0.1",
+  "description": "crawler client server: fetch url and parse",
+  "main": "client.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "request": "^2.67.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "crawler"
+  ],
+  "author": "Xiantank",
+  "license": "MIT"
+}

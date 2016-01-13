@@ -1,0 +1,8 @@
+{
+		"masterPort": 5182,
+		"masterServer": "http://localhost:5182",
+		"urlResource": "http://localhost:5182/fetch/",
+		"urlReport": "http://localhost:5182/crawledStatus/",
+		"clientPort": 3986,
+		"maxConcurrent": 20
+}
